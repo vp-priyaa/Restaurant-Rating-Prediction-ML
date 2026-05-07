@@ -76,7 +76,7 @@ The Random Forest model significantly outperformed Linear Regression and achieve
 
 ---
 
-# 📈 Visualizations Included
+#  Visualizations Included
 
 - Correlation Heatmap
 - Top Cities with Most Restaurants
