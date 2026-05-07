@@ -127,11 +127,9 @@ Applications include:
 
 ---
 
-# 👩‍💻 Developed By
+## Author
 
 Vishnu Priya V
-
-Machine Learning Intern — Cognifyz Technologies
 
 ---
 
